@@ -1,4 +1,4 @@
-## Olá, meu nome é Pablo e sou estudante de ADS!
+## Estudante de Análise e Desenvolvimento de Sistemas.
  
 <div> 
   <a href="https://instagram.com/cidralx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
